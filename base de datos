@@ -1,0 +1,10 @@
+sku,nombre,precio,stock,sucursal
+TEC-001,Teclado Mecanico,89.99,15,Centro
+MOU-001,Mouse Gamer RGB,45.50,35,Centro
+AUD-001,Audifonos Pro,120.00,22,Centro
+TEC-001,Teclado Mecanico,89.99,8,Norte
+MOU-001,Mouse Gamer RGB,45.50,40,Norte
+MON-001,Monitor 24 pulgadas,199.99,18,Norte
+TEC-001,Teclado Mecanico,89.99,11,Sur
+MOU-001,Mouse Gamer RGB,45.50,50,Sur
+CAM-001,Webcam 1080p,75.00,25,Sur
